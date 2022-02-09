@@ -1,0 +1,10 @@
+#even or odd
+a=int(input('enter a:'))
+if a/2==0:
+    print('a is even')
+else:
+    print('a is odd')
+    
+    enter a:97
+a is odd
+> 
